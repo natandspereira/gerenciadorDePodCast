@@ -29,7 +29,7 @@ Retorna uma lista de todos os episódios de podcasts.
 Filtra os episódios pelo nome do podcast.
 
 Exemplo de resposta:
-[
+````[
   {
     "podcastName": "flow",
     "episode": "CBUM - Flow #319",
@@ -38,8 +38,8 @@ Exemplo de resposta:
     "link": "https://www.youtube.com/watch?v=pQSuQmUfS30",
     "categories": ["saúde", "esporte", "bodybuilder"]
   }
- ] 
-
+ ]
+````
 ## Como Utilizar
 1. Clone este repositório.
 2. Instale as dependências usando npm install.
