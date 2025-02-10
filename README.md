@@ -29,7 +29,8 @@ Retorna uma lista de todos os episódios de podcasts.
 Filtra os episódios pelo nome do podcast.
 
 Exemplo de resposta:
-````[
+````
+[
   {
     "podcastName": "flow",
     "episode": "CBUM - Flow #319",
